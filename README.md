@@ -71,7 +71,7 @@ The analysis of the data revealed the following factor regarding features drivin
 - Drive: The drive type effects the median price: 4-wheel = $16.0k, Front-wheel = $15.0k, Rear-wheel = $8.0k
 - Type: The type of vehicle drives the price as shown on the graph below:
 
-![Plot of Car Type](car_price_prediction/type_plot.png).
+![Plot of Car Type](type_plot.png).
 
 **Next Steps**
 The predictive model for used car prices could be improved by utilizing the model name of the car.
